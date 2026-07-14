@@ -67,7 +67,6 @@ SQL Analysis
 Business Insights
 ```
 
-![Project Workflow](images/project_workflow.png)
 
 ---
 
